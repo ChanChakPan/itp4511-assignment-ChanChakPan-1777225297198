@@ -12,7 +12,7 @@ class User {
 
 public class Main {
     public static void main(String[] args) {
-        User myUser = new User("Alice");
+        User myUser = new User("Cherry");
         myUser.login();
     }
 }
